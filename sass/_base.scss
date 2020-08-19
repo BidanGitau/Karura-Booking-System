@@ -1,0 +1,20 @@
+//color variables
+$color-primary: rgb(86, 156, 86);
+$color-secondary: rgb(136, 236, 136);
+$font-primary: 'sans-serif';
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: $font-primary;
+    line-height: 1.6;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 100vh min-content 40vw repeat(3, min-content);
+    grid-template-columns: 8rem repeat(5, minmax(min-content, 15rem));
+}
