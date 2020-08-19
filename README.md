@@ -1,2 +1,2 @@
 # Karura-Booking-System
-An online booking system for Karura forest services
+An online booking system for Friends of Karura forest 
