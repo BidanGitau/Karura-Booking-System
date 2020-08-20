@@ -14,7 +14,7 @@
       pictorial
     </div>
     <div id="article">
-      little know
+      <p>welcome to Karura</p>
     </div>
     <div id="booking">
       make a booking
