@@ -18,6 +18,9 @@
     </div>
     <div id="booking">
       make a booking
+      <div class="post">
+        <p>Welcome to the world of programming</p>
+      </div>
     </div>
     <div id="footer">
 
